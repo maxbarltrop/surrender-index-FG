@@ -1,1 +1,1 @@
-Surrender Index.. 
+Surrender Index
