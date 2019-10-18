@@ -1,0 +1,501 @@
+﻿Date,Tm,Opp,Quarter,Time,Down,Yards,Location,Score,Detail,Yds,EPB,EPA,Diff
+2019-09-30,Bengals,Steelers,1,8:25,4,5,PIT 10,0-3,Randy Bullock 28 yard field goal good,0,2.81,3,0.19
+2019-09-30,Steelers,Bengals,2,1:01,4,7,CIN 11,10-3,Chris Boswell 29 yard field goal good,0,2.7,3,0.3
+2019-09-30,Steelers,Bengals,4,5:56,4,8,CIN 31,27-3,Chris Boswell 49 yard field goal good,0,1.32,3,1.68
+2019-09-29,Chargers,Dolphins,1,10:17,4,9,MIA 26,0-3,Ty Long 44 yard field goal good,0,1.74,3,1.26
+2019-09-29,Cardinals,Seahawks,1,9:48,4,4,SEA 26,0-0,Zane Gonzalez 43 yard field goal no good,0,1.81,-1.14,-2.95
+2019-09-29,Lions,Chiefs,1,10:09,4,7,KAN 7,3-0,Matt Prater 25 yard field goal good,0,2.97,3,0.03
+2019-09-29,Chiefs,Lions,1,5:43,4,10,DET 18,3-0,Harrison Butker 36 yard field goal no good,0,2.25,-0.67,-2.92
+2019-09-29,Seahawks,Cardinals,1,5:03,4,10,CRD 15,0-3,Jason Myers 33 yard field goal good,0,2.44,3,0.56
+2019-09-29,Cowboys,Saints,1,5:13,4,9,NOR 10,0-3,Brett Maher 28 yard field goal good,0,2.76,3,0.24
+2019-09-29,Panthers,Texans,1,2:28,4,5,HTX 30,0-3,Joey Slye 48 yard field goal good,0,1.45,3,1.55
+2019-09-29,Jaguars,Broncos,1,3:16,4,6,DEN 7,7-3,Josh Lambo 25 yard field goal good,0,2.98,3,0.02
+2019-09-29,Texans,Panthers,2,13:40,4,6,CAR 34,0-3,Ka'imi Fairbairn 52 yard field goal no good,0,1.07,-1.73,-2.8
+2019-09-29,Saints,Cowboys,2,15:00,4,18,DAL 22,3-3,Wil Lutz 40 yard field goal good,0,1.99,3,1.01
+2019-09-29,Cardinals,Seahawks,2,13:54,4,5,SEA 15,3-10,Zane Gonzalez 33 yard field goal good,0,2.49,3,0.51
+2019-09-29,Chiefs,Lions,2,14:16,4,5,DET 5,10-3,Harrison Butker 23 yard field goal good,0,3.01,3,-0.01
+2019-09-29,Dolphins,Chargers,2,11:15,4,12,SDG 12,10-10,Jason Sanders 30 yard field goal good,0,2.63,3,0.37
+2019-09-29,Saints,Cowboys,2,8:46,4,16,DAL 24,6-3,Wil Lutz 42 yard field goal good,0,1.87,3,1.13
+2019-09-29,Texans,Panthers,2,8:03,4,9,CAR 19,3-3,Ka'imi Fairbairn 37 yard field goal good,0,2.18,3,0.82
+2019-09-29,Titans,Falcons,2,10:07,4,3,ATL 27,7-17,Cairo Santos 45 yard field goal good,0,1.77,3,1.23
+2019-09-29,Cardinals,Seahawks,2,7:43,4,8,SEA 30,3-17,Zane Gonzalez 48 yard field goal no good,0,1.41,-1.47,-2.88
+2019-09-29,Colts,Raiders,2,7:37,4,8,RAI 8,10-21,Adam Vinatieri 26 yard field goal good,0,2.95,3,0.05
+2019-09-29,Broncos,Jaguars,2,4:20,4,14,JAX 15,17-3,Brandon McManus 33 yard field goal good. Penalty on Cody Davis: Defensive Offside (Declined),0,2.44,3,0.56
+2019-09-29,Dolphins,Chargers,2,3:39,4,8,SDG 32,10-10,Jason Sanders 50 yard field goal no good,0,1.24,-1.6,-2.84
+2019-09-29,Redskins,Giants,2,2:17,4,3,NYG 3,14-3,Dustin Hopkins 21 yard field goal good,0,3.04,3,-0.04
+2019-09-29,Browns,Ravens,2,0:11,4,6,RAV 6,7-10,Austin Seibert 24 yard field goal good,0,2.99,3,0.01
+2019-09-29,Lions,Chiefs,2,1:08,4,5,KAN 29,13-10,Matt Prater 48 yard field goal good,0,1.54,3,1.46
+2019-09-29,Seahawks,Cardinals,2,0:20,4,6,CRD 6,3-20,Jason Myers 24 yard field goal good,0,2.99,3,0.01
+2019-09-29,Bears,Vikings,2,0:04,4,1,MIN 8,10-0,Eddy Pineiro 25 yard field goal good,0,2.99,3,0.01
+2019-09-29,Giants,Redskins,2,0:03,1,12,WAS 12,17-3,Aldrick Rosas 30 yard field goal good,0,4.64,-3,-7.64
+2019-09-29,Bills,Patriots,2,2:00,4,13,NWE 28,3-13,Stephen Hauschka 46 yard field goal good,0,1.59,3,1.41
+2019-09-29,Chiefs,Lions,2,0:06,2,10,DET 26,13-13,Harrison Butker 44 yard field goal good,0,3.3,3,-0.3
+2019-09-29,Ravens,Browns,3,11:19,4,8,CLE 23,10-10,Justin Tucker 41 yard field goal good,0,1.93,3,1.07
+2019-09-29,Saints,Cowboys,2,0:02,2,1,DAL 1,9-3,Wil Lutz 19 yard field goal good,0,5.91,-3,-8.91
+2019-09-29,Falcons,Titans,2,0:35,4,4,OTI 14,7-24,Matt Bryant 32 yard field goal no good,0,2.58,-0.41,-2.99
+2019-09-29,Dolphins,Chargers,2,0:03,3,1,SDG 34,10-17,Jason Sanders 52 yard field goal no good,0,2.68,1.66,-1.02
+2019-09-29,Bears,Vikings,3,12:52,4,14,MIN 20,13-0,Eddy Pineiro 38 yard field goal good,0,2.12,3,0.88
+2019-09-29,Jaguars,Broncos,2,0:11,4,14,DEN 22,17-6,Josh Lambo 40 yard field goal good,0,1.99,3,1.01
+2019-09-29,Colts,Raiders,2,0:37,4,9,RAI 39,10-21,Adam Vinatieri 57 yard field goal no good,0,0.66,-2.06,-2.72
+2019-09-29,Bills,Patriots,2,0:04,4,15,NWE 31,3-13,Stephen Hauschka 49 yard field goal no good,0,1.32,1.47,0.15
+2019-09-29,Rams,Buccaneers,2,0:07,3,1,TAM 40,17-28,Greg Zuerlein 58 yard field goal good,0,2.28,3,0.72
+2019-09-29,Falcons,Titans,3,11:41,4,20,OTI 24,10-24,Matt Bryant 42 yard field goal good,0,1.87,3,1.13
+2019-09-29,Chargers,Dolphins,3,1:27,4,19,MIA 27,10-20,Ty Long 45 yard field goal good,0,1.67,3,1.33
+2019-09-29,Bears,Vikings,3,3:07,4,2,MIN 12,16-0,Eddy Pineiro 30 yard field goal good,0,2.76,3,0.24
+2019-09-29,Raiders,Colts,3,3:18,4,8,CLT 8,10-24,Daniel Carlson 26 yard field goal good,0,2.95,3,0.05
+2019-09-29,Lions,Chiefs,3,6:24,4,6,KAN 35,16-20,Matt Prater 53 yard field goal good,0,0.97,3,2.03
+2019-09-29,Rams,Buccaneers,3,9:08,4,22,TAM 26,20-28,Greg Zuerlein 44 yard field goal good,0,1.74,3,1.26
+2019-09-29,Saints,Cowboys,4,13:45,4,2,DAL 8,12-10,Wil Lutz 26 yard field goal good,0,2.99,3,0.01
+2019-09-29,Panthers,Texans,4,14:55,4,4,HTX 37,10-13,Joey Slye 55 yard field goal good,0,0.79,3,2.21
+2019-09-29,Buccaneers,Rams,3,4:38,4,10,RAM 40,20-31,Matt Gay 58 yard field goal good,0,0.59,3,2.41
+2019-09-29,Chargers,Dolphins,4,7:32,4,8,MIA 33,10-30,Ty Long 51 yard field goal good,0,1.15,3,1.85
+2019-09-29,Browns,Ravens,4,7:01,4,4,RAV 25,18-33,Austin Seibert 43 yard field goal good,0,1.88,3,1.12
+2019-09-29,Patriots,Bills,3,1:00,4,4,BUF 4,10-16,Stephen Gostkowski 23 yard field goal good,0,3.03,3,-0.03
+2019-09-29,Jaguars,Broncos,4,2:58,4,7,DEN 16,17-23,Josh Lambo 34 yard field goal good,0,2.38,3,0.62
+2019-09-29,Panthers,Texans,4,0:31,4,6,HTX 8,10-16,Joey Slye 26 yard field goal good,0,2.96,3,0.04
+2019-09-29,Jaguars,Broncos,4,0:04,3,15,DEN 15,24-26,Josh Lambo 33 yard field goal good,0,2.93,3,0.07
+2019-09-29,Buccaneers,Rams,4,2:37,4,3,RAM 3,40-48,Matt Gay 21 yard field goal good,0,3.04,3,-0.04
+2019-09-26,Packers,Eagles,2,14:04,4,7,PHI 12,10-0,Mason Crosby 30 yard field goal good,0,2.63,3,0.37
+2019-09-26,Packers,Eagles,2,8:28,4,2,PHI 13,13-7,Mason Crosby 31 yard field goal good,0,2.69,3,0.31
+2019-09-23,Redskins,Bears,2,13:26,4,20,CHI 25,0-7,Dustin Hopkins 43 yard field goal no good,0,1.8,-1.14,-2.94
+2019-09-23,Redskins,Bears,2,0:05,1,10,CHI 17,3-28,Dustin Hopkins 35 yard field goal good,0,4.44,-3,-7.44
+2019-09-23,Bears,Redskins,3,10:20,4,12,WAS 26,3-28,Eddy Pineiro 44 yard field goal no good,0,1.74,-1.2,-2.94
+2019-09-23,Bears,Redskins,4,1:54,4,2,WAS 20,15-31,Eddy Pineiro 38 yard field goal good,0,2.25,3,0.75
+2019-09-22,Dolphins,Cowboys,1,13:25,4,10,DAL 29,0-0,Jason Sanders 47 yard field goal no good,0,1.5,-1.4,-2.9
+2019-09-22,Steelers,49ers,1,11:52,4,5,SFO 28,0-3,Chris Boswell 46 yard field goal good,0,1.63,3,1.37
+2019-09-22,Colts,Falcons,1,9:36,4,7,ATL 31,3-0,Adam Vinatieri 49 yard field goal good,0,1.32,3,1.68
+2019-09-22,Eagles,Lions,1,11:30,4,6,DET 7,3-0,Jake Elliott 25 yard field goal good,0,2.98,3,0.02
+2019-09-22,Cowboys,Dolphins,1,10:31,4,9,MIA 10,3-0,Brett Maher 28 yard field goal good,0,2.76,3,0.24
+2019-09-22,Giants,Buccaneers,1,4:11,4,8,TAM 18,6-3,Aldrick Rosas 36 yard field goal good,0,2.25,3,0.75
+2019-09-22,Rams,Browns,1,4:10,4,6,CLE 35,0-3,Greg Zuerlein 53 yard field goal good,0,0.97,3,2.03
+2019-09-22,Steelers,49ers,1,2:07,4,5,SFO 8,0-6,Chris Boswell 26 yard field goal good,0,2.97,3,0.03
+2019-09-22,Dolphins,Cowboys,1,0:58,4,3,DAL 3,10-3,Jason Sanders 22 yard field goal good,0,3.04,3,-0.04
+2019-09-22,Chargers,Texans,2,10:36,4,15,HTX 15,10-0,Ty Long 34 yard field goal good,0,2.44,3,0.56
+2019-09-22,Browns,Rams,2,11:44,4,5,RAM 5,3-3,Austin Seibert 23 yard field goal good,0,3.01,3,-0.01
+2019-09-22,Packers,Broncos,2,11:23,4,6,DEN 24,10-7,Mason Crosby 42 yard field goal good,0,1.89,3,1.11
+2019-09-22,Buccaneers,Giants,2,7:40,4,19,NYG 29,15-10,Matt Gay 47 yard field goal good,0,1.5,3,1.5
+2019-09-22,Colts,Falcons,2,5:54,4,3,ATL 3,13-0,Adam Vinatieri 21 yard field goal good,0,3.04,3,-0.04
+2019-09-22,Bills,Bengals,2,10:33,4,7,CIN 16,11-0,Stephen Hauschka 34 yard field goal good,0,2.38,3,0.62
+2019-09-22,Broncos,Packers,2,3:53,4,12,GNB 12,10-10,Brandon McManus 30 yard field goal good,0,2.63,3,0.37
+2019-09-22,Rams,Browns,2,4:13,4,8,CLE 30,3-3,Greg Zuerlein 48 yard field goal no good,0,1.41,-1.47,-2.88
+2019-09-22,49ers,Steelers,2,6:48,4,5,PIT 6,3-6,Robbie Gould 24 yard field goal good,0,2.99,3,0.01
+2019-09-22,Falcons,Colts,2,2:24,4,11,CLT 16,13-3,Matt Bryant 34 yard field goal good,0,2.38,3,0.62
+2019-09-22,Lions,Eagles,2,3:32,4,7,PHI 7,10-17,Matt Prater 25 yard field goal good,0,2.97,3,0.03
+2019-09-22,Dolphins,Cowboys,2,5:51,4,4,DAL 15,10-6,Jason Sanders 33 yard field goal good,0,2.52,3,0.48
+2019-09-22,Buccaneers,Giants,2,4:08,4,7,NYG 9,18-10,Matt Gay 27 yard field goal good,0,2.83,3,0.17
+2019-09-22,Cardinals,Panthers,2,1:40,4,11,CAR 16,10-7,Zane Gonzalez 34 yard field goal good,0,2.38,3,0.62
+2019-09-22,Lions,Eagles,2,0:59,4,3,PHI 15,10-20,Matt Prater 33 yard field goal good,0,2.54,3,0.46
+2019-09-22,Bills,Bengals,2,2:16,4,4,CIN 27,14-0,Stephen Hauschka 45 yard field goal good,0,1.75,3,1.25
+2019-09-22,Browns,Rams,2,0:04,4,10,RAM 17,6-3,Austin Seibert 35 yard field goal good,0,2.31,3,0.69
+2019-09-22,Texans,Chargers,2,0:02,1,10,SDG 38,17-7,Ka'imi Fairbairn 56 yard field goal no good,0,3.05,1.93,-1.12
+2019-09-22,Chiefs,Ravens,2,0:10,2,7,RAV 24,23-6,Harrison Butker 42 yard field goal good,0,3.64,3,-0.64
+2019-09-22,Buccaneers,Giants,2,0:04,4,4,NYG 34,28-10,Matt Gay 52 yard field goal good,0,1.08,3,1.92
+2019-09-22,Patriots,Jets,3,8:52,4,12,NYJ 19,23-0,Stephen Gostkowski 37 yard field goal good,0,2.18,3,0.82
+2019-09-22,Bills,Bengals,2,0:07,2,10,CIN 44,14-0,Stephen Hauschka 62 yard field goal no good,0,2.11,-2.39,-4.5
+2019-09-22,Vikings,Raiders,4,15:00,4,4,RAI 31,31-7,Dan Bailey 50 yard field goal good,0,1.37,3,1.63
+2019-09-22,Cardinals,Panthers,3,2:52,4,5,CAR 30,20-21,Zane Gonzalez 47 yard field goal good,0,1.45,3,1.55
+2019-09-22,Raiders,Vikings,4,8:35,4,18,MIN 33,31-7,Daniel Carlson 51 yard field goal no good,0,1.15,-1.66,-2.81
+2019-09-22,Vikings,Raiders,4,3:49,4,4,RAI 6,34-7,Dan Bailey 24 yard field goal good,0,3,3,0
+2019-09-22,Packers,Broncos,4,5:53,4,2,DEN 23,27-16,Mason Crosby 41 yard field goal good,0,2.05,3,0.95
+2019-09-22,Rams,Browns,4,6:40,4,1,CLE 19,13-20,Greg Zuerlein 37 yard field goal good,0,2.34,3,0.66
+2019-09-22,Chargers,Texans,4,7:19,4,2,HTX 25,20-27,Ty Long 43 yard field goal good,0,1.93,3,1.07
+2019-09-22,Cowboys,Dolphins,4,7:59,4,25,MIA 37,24-6,Brett Maher 55 yard field goal no good,0,0.79,-1.93,-2.72
+2019-09-22,Buccaneers,Giants,4,6:04,4,2,NYG 5,31-25,Matt Gay 23 yard field goal good,0,3.03,3,-0.03
+2019-09-22,Packers,Broncos,4,1:09,4,6,DEN 27,27-16,Mason Crosby 45 yard field goal no good,0,1.7,-1.27,-2.97
+2019-09-22,Ravens,Chiefs,4,6:43,4,15,KAN 21,30-22,Justin Tucker 39 yard field goal good,0,2.06,3,0.94
+2019-09-22,Lions,Eagles,4,1:53,4,10,PHI 28,24-27,Matt Prater 46 yard field goal no good blocked by Malcolm Jenkins recovered by Rasul Douglas (tackle by Frank Ragnow). Penalty on Malcolm Jenkins: Illegal Block Above the Waist 10 yards,0,1.59,-2.26,-3.85
+2019-09-22,Panthers,Cardinals,4,4:31,4,6,CRD 18,20-38,Joey Slye 36 yard field goal good,0,2.27,3,0.73
+2019-09-22,Chiefs,Ravens,4,4:39,4,10,RAV 18,33-22,Harrison Butker 36 yard field goal good,0,2.25,3,0.75
+2019-09-22,Bengals,Bills,4,4:58,4,8,BUF 25,14-17,Randy Bullock 43 yard field goal good,0,1.8,3,1.2
+2019-09-22,Buccaneers,Giants,4,0:04,3,16,NYG 16,31-32,Matt Gay 34 yard field goal no good,0,2.85,0.48,-2.37
+2019-09-19,Jaguars,Titans,3,7:59,4,4,OTI 22,17-0,Josh Lambo 40 yard field goal good,0,2.07,3,0.93
+2019-09-19,Jaguars,Titans,4,7:38,4,7,OTI 30,20-7,Josh Lambo 48 yard field goal good,0,1.41,3,1.59
+2019-09-16,Browns,Jets,1,10:30,4,5,NYJ 5,0-3,Austin Seibert 23 yard field goal good,0,3.01,3,-0.01
+2019-09-16,Browns,Jets,1,6:19,4,5,NYJ 30,0-6,Austin Seibert 48 yard field goal good,0,1.45,3,1.55
+2019-09-16,Jets,Browns,2,3:00,4,9,CLE 28,3-13,Sam Ficken 46 yard field goal good,0,1.59,3,1.41
+2019-09-16,Browns,Jets,2,0:05,2,10,NYJ 25,3-16,Austin Seibert 43 yard field goal good,0,3.36,3,-0.36
+2019-09-15,Broncos,Bears,1,9:50,4,2,CHI 25,3-0,Brandon McManus 43 yard field goal good,0,1.93,3,1.07
+2019-09-15,Falcons,Eagles,1,9:33,4,16,PHI 32,3-0,Matt Bryant 50 yard field goal good,0,1.24,3,1.76
+2019-09-15,Raiders,Chiefs,1,10:24,4,1,KAN 10,3-0,Daniel Carlson 29 yard field goal good,0,2.91,3,0.09
+2019-09-15,Vikings,Packers,1,9:21,4,10,GNB 29,7-0,Dan Bailey 47 yard field goal no good,0,1.5,-1.4,-2.9
+2019-09-15,Rams,Saints,1,8:46,4,5,NOR 6,3-0,Greg Zuerlein 24 yard field goal good,0,2.99,3,0.01
+2019-09-15,Texans,Jaguars,1,1:58,4,5,JAX 21,3-0,Ka'imi Fairbairn 39 yard field goal good,0,2.11,3,0.89
+2019-09-15,Cardinals,Ravens,1,2:21,4,1,RAV 4,7-3,Zane Gonzalez 22 yard field goal good,0,3.04,3,-0.04
+2019-09-15,Bears,Broncos,2,13:39,4,2,DEN 22,3-3,Eddy Pineiro 40 yard field goal good,0,2.12,3,0.88
+2019-09-15,Ravens,Cardinals,2,14:11,4,3,CRD 15,10-3,Justin Tucker 33 yard field goal good,0,2.54,3,0.46
+2019-09-15,Patriots,Dolphins,2,8:32,4,3,MIA 30,0-7,Stephen Gostkowski 48 yard field goal no good,0,1.48,-1.47,-2.95
+2019-09-15,Eagles,Falcons,2,10:50,4,14,ATL 16,3-3,Jake Elliott 34 yard field goal good,0,2.38,3,0.62
+2019-09-15,Bengals,49ers,2,12:53,4,18,SFO 34,7-14,Randy Bullock 52 yard field goal no good,0,1.06,-1.73,-2.79
+2019-09-15,Bears,Broncos,2,5:15,4,2,DEN 34,3-6,Eddy Pineiro 52 yard field goal good,0,1.1,3,1.9
+2019-09-15,Saints,Rams,2,11:10,4,6,RAM 16,3-3,Wil Lutz 34 yard field goal good,0,2.4,3,0.6
+2019-09-15,Cardinals,Ravens,2,8:34,4,3,RAV 3,10-6,Zane Gonzalez 21 yard field goal good,0,3.04,3,-0.04
+2019-09-15,Lions,Chargers,2,6:02,4,2,SDG 22,6-7,Matt Prater 40 yard field goal no good,0,2.12,-0.94,-3.06
+2019-09-15,Falcons,Eagles,2,7:47,4,9,PHI 32,3-3,Matt Bryant 50 yard field goal no good,0,1.24,-1.6,-2.84
+2019-09-15,Jaguars,Texans,2,3:21,4,4,HTX 22,3-3,Josh Lambo 40 yard field goal good,0,2.07,3,0.93
+2019-09-15,Bengals,49ers,2,7:02,4,5,SFO 19,10-21,Randy Bullock 37 yard field goal good,0,2.24,3,0.76
+2019-09-15,Giants,Bills,2,1:54,4,9,BUF 29,7-21,Aldrick Rosas 48 yard field goal no good,0,1.5,-1.47,-2.97
+2019-09-15,Texans,Jaguars,2,0:02,2,4,JAX 4,6-3,Ka'imi Fairbairn 22 yard field goal good,0,5.34,-3,-8.34
+2019-09-15,Steelers,Seahawks,2,2:32,4,5,SEA 23,10-7,Chris Boswell 41 yard field goal good,0,1.98,3,1.02
+2019-09-15,Vikings,Packers,2,0:55,4,13,GNB 13,21-10,Dan Bailey 31 yard field goal good,0,2.57,3,0.43
+2019-09-15,Chargers,Lions,2,0:04,1,10,DET 21,6-10,Ty Long 39 yard field goal good,0,4.17,3,-1.17
+2019-09-15,Patriots,Dolphins,3,8:49,4,7,MIA 10,0-16,Stephen Gostkowski 28 yard field goal good,0,2.76,3,0.24
+2019-09-15,Rams,Saints,2,0:07,4,3,NOR 4,6-3,Greg Zuerlein 22 yard field goal good,0,3.03,3,-0.03
+2019-09-15,Seahawks,Steelers,2,0:03,4,14,PIT 40,10-7,Jason Myers 58 yard field goal no good,0,0.59,2.06,1.47
+2019-09-15,Eagles,Falcons,2,0:03,3,20,ATL 23,10-6,Jake Elliott 41 yard field goal good,0,2.15,-3,-5.15
+2019-09-15,49ers,Bengals,2,0:06,2,10,CIN 15,10-24,Robbie Gould 33 yard field goal good,0,3.95,3,-0.95
+2019-09-15,Saints,Rams,3,9:59,4,6,RAM 34,6-6,Wil Lutz 52 yard field goal good,0,1.07,3,1.93
+2019-09-15,Titans,Colts,3,4:40,4,8,CLT 31,17-13,Cairo Santos 49 yard field goal good,0,1.32,3,1.68
+2019-09-15,Cardinals,Ravens,3,9:02,4,2,RAV 2,17-9,Zane Gonzalez 21 yard field goal good,0,3.25,3,-0.25
+2019-09-15,Steelers,Seahawks,3,6:25,4,9,SEA 15,13-14,Chris Boswell 33 yard field goal good,0,2.44,3,0.56
+2019-09-15,Chargers,Lions,3,2:13,4,3,DET 21,6-10,Ty Long 39 yard field goal no good,0,2.16,-0.87,-3.03
+2019-09-15,Broncos,Bears,4,13:40,4,10,CHI 14,6-13,Brandon McManus 32 yard field goal good,0,2.51,3,0.49
+2019-09-15,Cowboys,Redskins,4,13:51,4,7,WAS 7,14-24,Brett Maher 25 yard field goal good. Penalty on Jimmy Moreland: Defensive Offside (Declined),0,2.97,3,0.03
+2019-09-15,49ers,Bengals,3,4:39,4,2,CIN 20,10-34,Robbie Gould 38 yard field goal good,0,2.25,3,0.75
+2019-09-15,Titans,Colts,4,10:35,4,12,CLT 27,17-13,Cairo Santos 45 yard field goal no good,0,1.67,-1.27,-2.94
+2019-09-15,Ravens,Cardinals,4,15:00,4,6,CRD 10,20-9,Justin Tucker 28 yard field goal good,0,2.79,3,0.21
+2019-09-15,Chargers,Lions,4,11:50,4,1,DET 23,6-10,Ty Long 41 yard field goal no good,0,2.08,-1,-3.08
+2019-09-15,Jaguars,Texans,4,6:05,4,4,HTX 14,13-6,Josh Lambo 32 yard field goal good,0,2.58,3,0.42
+2019-09-15,Saints,Rams,4,11:02,4,14,RAM 24,20-9,Wil Lutz 42 yard field goal good,0,1.87,3,1.13
+2019-09-15,Ravens,Cardinals,4,9:02,4,5,CRD 33,23-17,Justin Tucker 51 yard field goal good,0,1.17,3,1.83
+2019-09-15,49ers,Bengals,4,7:08,4,16,CIN 21,10-41,Robbie Gould 39 yard field goal no good,0,2.06,-0.87,-2.93
+2019-09-15,Bears,Broncos,4,0:01,1,10,DEN 35,14-16,Eddy Pineiro 53 yard field goal good,0,3.25,3,-0.25
+2019-09-12,Buccaneers,Panthers,1,5:40,4,2,CAR 21,0-3,Matt Gay 40 yard field goal good,0,2.18,3,0.82
+2019-09-12,Panthers,Buccaneers,1,2:56,4,8,TAM 14,3-3,Joey Slye 32 yard field goal good,0,2.51,3,0.49
+2019-09-12,Panthers,Buccaneers,2,8:30,4,3,TAM 19,6-3,Joey Slye 37 yard field goal good,0,2.28,3,0.72
+2019-09-12,Panthers,Buccaneers,2,0:03,3,12,TAM 36,9-10,Joey Slye 54 yard field goal good,0,1.82,-3,-4.82
+2019-09-12,Panthers,Buccaneers,3,7:58,4,22,TAM 33,12-10,Joey Slye 51 yard field goal good,0,1.15,3,1.85
+2019-09-12,Buccaneers,Panthers,3,0:02,4,13,CAR 24,12-17,Matt Gay 42 yard field goal no good,0,1.87,-1.07,-2.94
+2019-09-12,Buccaneers,Panthers,4,2:30,4,5,CAR 14,14-20,Matt Gay 32 yard field goal good,0,2.56,3,0.44
+2019-09-09,Saints,Texans,2,9:27,4,9,HTX 14,3-7,Wil Lutz 32 yard field goal good,0,2.51,3,0.49
+2019-09-09,Broncos,Raiders,2,0:05,4,20,RAI 46,14-0,Brandon McManus 64 yard field goal no good,0,0.2,2.46,2.26
+2019-09-09,Saints,Texans,2,0:04,1,10,HTX 38,3-14,Wil Lutz 56 yard field goal no good,0,3.05,1.93,-1.12
+2019-09-09,Broncos,Raiders,3,9:22,4,8,RAI 8,14-3,Brandon McManus 26 yard field goal good,0,2.95,3,0.05
+2019-09-09,Broncos,Raiders,3,3:45,4,5,RAI 8,14-6,Brandon McManus 26 yard field goal good,0,2.97,3,0.03
+2019-09-09,Broncos,Raiders,4,8:43,4,9,RAI 21,21-9,Brandon McManus 39 yard field goal good,0,2.06,3,0.94
+2019-09-09,Raiders,Broncos,4,4:41,4,3,DEN 11,24-9,Daniel Carlson 29 yard field goal good,0,2.8,3,0.2
+2019-09-09,Saints,Texans,4,0:55,4,6,HTX 29,27-21,Wil Lutz 47 yard field goal good,0,1.52,3,1.48
+2019-09-09,Saints,Texans,4,0:02,3,1,HTX 40,30-28,Wil Lutz 58 yard field goal good,0,2.28,3,0.72
+2019-09-08,49ers,Buccaneers,1,11:12,4,8,TAM 11,0-3,Robbie Gould 29 yard field goal good,0,2.7,3,0.3
+2019-09-08,Chiefs,Jaguars,1,9:00,4,3,JAX 9,0-10,Harrison Butker 28 yard field goal good,0,2.93,3,0.07
+2019-09-08,Titans,Browns,1,6:36,4,9,CLE 19,6-3,Cairo Santos 37 yard field goal good,0,2.18,3,0.82
+2019-09-08,Redskins,Eagles,1,2:51,4,10,PHI 23,0-10,Dustin Hopkins 41 yard field goal good,0,1.93,3,1.07
+2019-09-08,Bengals,Seahawks,1,2:52,4,7,SEA 21,0-3,Randy Bullock 39 yard field goal good,0,2.06,3,0.94
+2019-09-08,Panthers,Rams,1,0:47,4,13,RAM 35,0-0,Joey Slye 53 yard field goal no good,0,0.97,-1.8,-2.77
+2019-09-08,Lions,Cardinals,2,14:12,4,8,CRD 37,0-3,Matt Prater 55 yard field goal good,0,0.79,3,2.21
+2019-09-08,Rams,Panthers,2,13:48,4,8,CAR 31,0-3,Greg Zuerlein 49 yard field goal good,0,1.32,3,1.68
+2019-09-08,Jaguars,Chiefs,2,11:39,4,2,KAN 19,10-17,Josh Lambo 37 yard field goal good,0,2.31,3,0.69
+2019-09-08,Patriots,Steelers,2,11:54,4,7,PIT 7,10-0,Stephen Gostkowski 25 yard field goal good,0,2.97,3,0.03
+2019-09-08,Dolphins,Ravens,2,10:43,4,19,RAV 36,3-28,Jason Sanders 54 yard field goal good,0,0.88,3,2.12
+2019-09-08,Chiefs,Jaguars,2,7:59,4,7,JAX 7,10-20,Harrison Butker 25 yard field goal good,0,2.97,3,0.03
+2019-09-08,Jaguars,Chiefs,2,4:25,4,5,KAN 5,13-20,Josh Lambo 23 yard field goal good,0,3.01,3,-0.01
+2019-09-08,Chargers,Colts,2,1:06,4,10,CLT 22,17-6,Ty Long 40 yard field goal good,0,1.99,3,1.01
+2019-09-08,Colts,Chargers,2,0:03,1,10,SDG 28,17-6,Adam Vinatieri 46 yard field goal no good,0,3.71,1.27,-2.44
+2019-09-08,49ers,Buccaneers,2,2:59,4,13,TAM 18,7-6,Robbie Gould 36 yard field goal good,0,2.25,3,0.75
+2019-09-08,Chiefs,Jaguars,2,0:28,4,7,JAX 28,13-23,Harrison Butker 46 yard field goal good,0,1.59,3,1.41
+2019-09-08,Rams,Panthers,2,1:07,4,6,CAR 38,0-13,Greg Zuerlein 56 yard field goal good,0,0.72,3,2.28
+2019-09-08,Colts,Chargers,3,11:19,4,7,SDG 26,17-9,Adam Vinatieri 44 yard field goal good,0,1.74,3,1.26
+2019-09-08,Patriots,Steelers,2,0:21,4,6,PIT 23,20-0,Stephen Gostkowski 41 yard field goal good,0,1.95,3,1.05
+2019-09-08,Redskins,Eagles,2,0:01,3,9,PHI 30,7-20,Dustin Hopkins 48 yard field goal good,0,2.41,3,0.59
+2019-09-08,Cardinals,Lions,2,1:22,4,2,DET 2,3-17,Zane Gonzalez 20 yard field goal good,0,3.25,3,-0.25
+2019-09-08,Jets,Bills,2,0:30,4,8,BUF 27,6-0,Kaare Vedvik 45 yard field goal no good,0,1.67,-1.27,-2.94
+2019-09-08,Panthers,Rams,2,0:02,2,10,RAM 28,3-13,Joey Slye 46 yard field goal good,0,3.17,3,-0.17
+2019-09-08,Steelers,Patriots,3,10:19,4,1,NWE 1,20-3,Chris Boswell 19 yard field goal good,0,3.55,3,-0.55
+2019-09-08,Rams,Panthers,3,11:56,4,8,CAR 9,3-16,Greg Zuerlein 27 yard field goal good,0,2.83,3,0.17
+2019-09-08,Giants,Cowboys,3,11:02,4,9,DAL 10,21-10,Aldrick Rosas 28 yard field goal good,0,2.76,3,0.24
+2019-09-08,Titans,Browns,3,11:58,4,17,CLE 35,6-15,Cairo Santos 53 yard field goal good,0,0.97,3,2.03
+2019-09-08,Bengals,Seahawks,3,7:43,4,4,SEA 27,14-17,Randy Bullock 45 yard field goal no good,0,1.75,-1.27,-3.02
+2019-09-08,Colts,Chargers,4,13:32,4,7,SDG 11,24-16,Adam Vinatieri 29 yard field goal no good,0,2.7,-0.28,-2.98
+2019-09-08,49ers,Buccaneers,3,2:42,4,10,TAM 39,14-20,Robbie Gould 57 yard field goal no good,0,0.66,-2.06,-2.72
+2019-09-08,Patriots,Steelers,3,0:16,4,12,PIT 17,30-3,Stephen Gostkowski 35 yard field goal good,0,2.31,3,0.69
+2019-09-08,Cardinals,Lions,3,4:43,4,4,DET 24,6-17,Zane Gonzalez 42 yard field goal good,0,1.94,3,1.06
+2019-09-08,Bills,Jets,3,3:52,4,12,NYJ 25,16-3,Stephen Hauschka 43 yard field goal good,0,1.8,3,1.2
+2019-09-08,Ravens,Dolphins,3,0:29,4,5,MIA 16,10-52,Justin Tucker 34 yard field goal good,0,2.43,3,0.57
+2019-09-08,Panthers,Rams,3,0:16,4,8,RAM 34,13-23,Joey Slye 52 yard field goal good,0,1.06,3,1.94
+2019-09-08,Chiefs,Jaguars,4,3:41,4,15,JAX 17,19-40,Harrison Butker 35 yard field goal good,0,2.31,3,0.69
+2019-09-08,Bengals,Seahawks,4,7:03,4,8,SEA 8,21-20,Randy Bullock 27 yard field goal good,0,2.95,3,0.05
+2019-09-08,Buccaneers,49ers,4,4:51,4,12,SFO 13,17-20,Matt Gay 31 yard field goal good,0,2.57,3,0.43
+2019-09-08,Patriots,Steelers,4,6:41,4,16,PIT 21,33-3,Stephen Gostkowski 39 yard field goal good,0,2.06,3,0.94
+2019-09-08,Eagles,Redskins,4,3:12,4,4,WAS 4,32-20,Jake Elliott 22 yard field goal good,0,3.03,3,-0.03
+2019-09-08,Cardinals,Lions,4,11:13,4,9,DET 16,9-24,Zane Gonzalez 34 yard field goal good,0,2.38,3,0.62
+2019-09-08,49ers,Buccaneers,4,2:21,4,8,TAM 29,17-23,Robbie Gould 47 yard field goal good,0,1.5,3,1.5
+2019-09-08,Rams,Panthers,4,4:10,4,1,CAR 23,20-30,Greg Zuerlein 41 yard field goal no good,0,2.08,-1,-3.08
+2019-09-08,Cardinals,Lions,5,7:21,4,10,DET 10,27-24,Zane Gonzalez 28 yard field goal good,0,2.76,3,0.24
+2019-09-08,Lions,Cardinals,5,3:51,4,7,CRD 15,27-27,Matt Prater 33 yard field goal good,0,2.44,3,0.56
+2019-09-05,Bears,Packers,1,4:14,4,4,GNB 20,3-0,Eddy Pineiro 38 yard field goal good,0,2.2,3,0.8
+2019-09-05,Packers,Bears,4,5:20,4,2,CHI 21,3-10,Mason Crosby 39 yard field goal good,0,2.18,3,0.82
+2018-12-30,Jaguars,Texans,1,10:11,4,7,HTX 7,0-3,Kai Forbath 25 yard field goal good,0,2.97,3,0.03
+2018-12-30,Ravens,Browns,1,9:31,4,8,CLE 20,3-0,Justin Tucker 38 yard field goal good,0,2.12,3,0.88
+2018-12-30,Cardinals,Seahawks,1,7:25,4,11,SEA 17,0-3,Zane Gonzalez 36 yard field goal good,0,2.31,3,0.69
+2018-12-30,Texans,Jaguars,1,5:23,4,6,JAX 6,3-3,Ka'imi Fairbairn 23 yard field goal good,0,2.99,3,0.01
+2018-12-30,Cowboys,Giants,1,1:11,4,11,NYG 16,0-0,Brett Maher 34 yard field goal no good,0,2.38,-0.54,-2.92
+2018-12-30,Jets,Patriots,1,0:58,4,9,NWE 22,7-3,Jason Myers 40 yard field goal good,0,1.99,3,1.01
+2018-12-30,Eagles,Redskins,1,0:26,4,4,WAS 15,0-3,Jake Elliott 33 yard field goal good,0,2.52,3,0.48
+2018-12-30,49ers,Rams,1,2:16,4,3,RAM 12,14-3,Robbie Gould 30 yard field goal good,0,2.73,3,0.27
+2018-12-30,Bills,Dolphins,2,13:01,4,12,MIA 23,14-0,Stephen Hauschka 42 yard field goal no good,0,1.93,-1.07,-3
+2018-12-30,Lions,Packers,2,10:41,4,3,GNB 8,0-13,Matt Prater pass complete short left to Levine Toilolo for 8 yards touchdown,0,2.98,7,4.02
+2018-12-30,Buccaneers,Falcons,2,8:29,4,9,ATL 18,10-0,Cairo Santos 36 yard field goal good,0,2.25,3,0.75
+2018-12-30,Bengals,Steelers,2,2:17,4,11,PIT 31,0-10,Randy Bullock 49 yard field goal good. Penalty on Alex Redmond: Unnecessary Roughness 15 yards,0,1.32,3,1.68
+2018-12-30,Ravens,Browns,2,6:15,4,10,CLE 16,20-7,Justin Tucker 35 yard field goal good,0,2.38,3,0.62
+2018-12-30,Steelers,Bengals,2,0:04,4,13,CIN 21,3-10,Matthew McCrane 39 yard field goal good,0,2.06,3,0.94
+2018-12-30,Cardinals,Seahawks,2,1:18,4,21,SEA 32,14-13,Zane Gonzalez 50 yard field goal good,0,1.24,3,1.76
+2018-12-30,Colts,Titans,2,0:44,4,10,OTI 34,7-17,Adam Vinatieri 53 yard field goal good,0,1.06,3,1.94
+2018-12-30,Raiders,Chiefs,2,1:09,4,8,KAN 32,21-3,Daniel Carlson 50 yard field goal good,0,1.24,3,1.76
+2018-12-30,Vikings,Bears,2,0:58,4,6,CHI 27,3-13,Dan Bailey 45 yard field goal good,0,1.7,3,1.3
+2018-12-30,Panthers,Saints,2,0:03,4,4,NOR 4,0-23,Chandler Catanzaro 22 yard field goal good,0,3.03,3,-0.03
+2018-12-30,Titans,Colts,2,0:05,3,7,CLT 20,10-17,Ryan Succop 38 yard field goal good. Penalty on Margus Hunt: Unnecessary Roughness (Declined),0,3.2,3,-0.2
+2018-12-30,Broncos,Chargers,2,0:15,4,10,SDG 10,3-7,Brandon McManus 28 yard field goal good,0,2.76,3,0.24
+2018-12-30,Browns,Ravens,2,0:04,1,5,RAV 28,20-7,Greg Joseph 46 yard field goal no good,0,4.11,1.27,-2.84
+2018-12-30,Giants,Cowboys,3,9:05,4,12,DAL 30,10-14,Aldrick Rosas 48 yard field goal good,0,1.41,3,1.59
+2018-12-30,Rams,49ers,2,0:03,4,3,SFO 10,31-10,Greg Zuerlein 28 yard field goal good,0,2.86,-3,-5.86
+2018-12-30,Buccaneers,Falcons,3,6:43,4,4,ATL 27,20-14,Cairo Santos 45 yard field goal good,0,1.75,3,1.25
+2018-12-30,Lions,Packers,3,3:12,4,8,GNB 25,0-24,Matt Prater 43 yard field goal good,0,1.8,3,1.2
+2018-12-30,Ravens,Browns,3,7:08,4,14,CLE 26,23-14,Justin Tucker 44 yard field goal good,0,1.74,3,1.26
+2018-12-30,Falcons,Buccaneers,3,2:04,4,7,TAM 31,20-17,Matt Bryant 49 yard field goal good,0,1.32,3,1.68
+2018-12-30,Patriots,Jets,4,9:44,4,2,NYJ 19,31-3,Stephen Gostkowski 38 yard field goal good,0,2.31,3,0.69
+2018-12-30,Dolphins,Bills,3,1:31,4,9,BUF 11,28-17,Jason Sanders 29 yard field goal good,0,2.7,3,0.3
+2018-12-30,Steelers,Bengals,4,8:40,4,10,CIN 29,13-10,Matthew McCrane 47 yard field goal good,0,1.5,3,1.5
+2018-12-30,Texans,Jaguars,4,10:55,4,5,JAX 5,20-3,Ka'imi Fairbairn 24 yard field goal good,0,3.01,3,-0.01
+2018-12-30,Browns,Ravens,4,13:48,4,8,RAV 17,23-17,Greg Joseph 35 yard field goal good,0,2.31,3,0.69
+2018-12-30,Bengals,Steelers,4,6:20,4,9,PIT 14,13-13,Randy Bullock 32 yard field goal good,0,2.51,3,0.49
+2018-12-30,Panthers,Saints,4,8:22,4,13,NOR 33,7-33,Chandler Catanzaro 51 yard field goal good,0,1.15,3,1.85
+2018-12-30,Bears,Vikings,4,4:29,4,2,MIN 24,10-24,Cody Parkey 42 yard field goal good,0,1.99,3,1.01
+2018-12-30,Rams,49ers,4,11:49,4,13,SFO 33,48-17,Greg Zuerlein 51 yard field goal good,0,1.15,3,1.85
+2018-12-30,Ravens,Browns,4,7:23,4,5,CLE 5,26-17,Justin Tucker 23 yard field goal good,0,3.01,3,-0.01
+2018-12-30,Steelers,Bengals,4,2:00,4,3,CIN 17,16-13,Matthew McCrane 35 yard field goal good,0,2.41,3,0.59
+2018-12-30,Seahawks,Cardinals,4,6:25,4,13,CRD 24,24-21,Sebastian Janikowski 42 yard field goal good,0,1.87,3,1.13
+2018-12-30,Colts,Titans,4,4:00,4,7,OTI 7,17-27,Adam Vinatieri 25 yard field goal good,0,2.97,3,0.03
+2018-12-30,Cardinals,Seahawks,4,1:54,4,12,SEA 37,24-24,Zane Gonzalez 55 yard field goal good,0,0.79,3,2.21
+2018-12-30,Giants,Cowboys,4,2:39,4,12,DAL 20,35-28,Aldrick Rosas 38 yard field goal good,0,2.12,3,0.88
+2018-12-30,Seahawks,Cardinals,4,0:03,2,13,CRD 15,27-24,Sebastian Janikowski 33 yard field goal good,0,3.66,3,-0.66
+2018-12-30,Falcons,Buccaneers,4,0:04,4,13,TAM 19,32-34,Matt Bryant 37 yard field goal good,0,2.18,3,0.82
+2018-12-24,Raiders,Broncos,2,0:23,4,7,DEN 25,17-0,Daniel Carlson 43 yard field goal good,0,1.8,3,1.2
+2018-12-24,Broncos,Raiders,2,0:04,1,10,RAI 40,17-0,Brandon McManus 58 yard field goal no good,0,2.92,2.06,-0.86
+2018-12-24,Raiders,Broncos,4,4:42,4,6,DEN 27,27-14,Daniel Carlson 45 yard field goal good,0,1.7,3,1.3
+2018-12-23,Jets,Packers,1,11:23,4,18,GNB 28,0-0,Jason Myers 45 yard field goal no good,0,1.59,-1.27,-2.86
+2018-12-23,Buccaneers,Cowboys,1,12:12,4,16,DAL 19,0-3,Cairo Santos 37 yard field goal good,0,2.18,3,0.82
+2018-12-23,Cardinals,Rams,1,7:11,4,8,RAM 18,3-0,Zane Gonzalez 36 yard field goal good,0,2.25,3,0.75
+2018-12-23,Bears,49ers,1,5:53,4,10,SFO 19,0-0,Cody Parkey 37 yard field goal no good,0,2.18,-0.74,-2.92
+2018-12-23,Lions,Vikings,1,7:35,4,3,MIN 29,3-0,Matt Prater 47 yard field goal good,0,1.58,3,1.42
+2018-12-23,Steelers,Saints,1,5:37,4,2,NOR 31,0-3,Chris Boswell 49 yard field goal good,0,1.4,3,1.6
+2018-12-23,Chiefs,Seahawks,1,6:38,4,10,SEA 36,7-3,Harrison Butker 54 yard field goal good,0,0.88,3,2.12
+2018-12-23,Texans,Eagles,2,14:55,4,11,PHI 12,7-3,Ka'imi Fairbairn 30 yard field goal good,0,2.63,3,0.37
+2018-12-23,Seahawks,Chiefs,1,1:52,4,10,KAN 18,7-3,Sebastian Janikowski 36 yard field goal no good,0,2.25,-0.67,-2.92
+2018-12-23,Bills,Patriots,1,0:13,4,5,NWE 24,7-0,Stephen Hauschka 43 yard field goal no good,0,1.92,-1.14,-3.06
+2018-12-23,Steelers,Saints,2,14:10,4,9,NOR 12,7-6,Chris Boswell 30 yard field goal good,0,2.63,3,0.37
+2018-12-23,49ers,Bears,2,10:58,4,9,CHI 15,3-0,Robbie Gould 33 yard field goal good,0,2.44,3,0.56
+2018-12-23,Lions,Vikings,2,10:43,4,8,MIN 17,6-0,Matt Prater 35 yard field goal good,0,2.31,3,0.69
+2018-12-23,Buccaneers,Cowboys,2,9:19,4,10,DAL 27,14-6,Cairo Santos 45 yard field goal good,0,1.67,3,1.33
+2018-12-23,Dolphins,Jaguars,2,6:11,4,5,JAX 28,7-7,Jason Sanders 47 yard field goal no good,0,1.63,-1.4,-3.03
+2018-12-23,49ers,Bears,2,5:52,4,7,CHI 12,6-0,Robbie Gould 30 yard field goal good,0,2.63,3,0.37
+2018-12-23,Panthers,Falcons,2,7:46,4,4,ATL 32,10-7,Chandler Catanzaro 50 yard field goal good,0,1.27,3,1.73
+2018-12-23,Lions,Vikings,2,4:10,4,5,MIN 30,9-0,Matt Prater 48 yard field goal good,0,1.45,3,1.55
+2018-12-23,Falcons,Panthers,2,5:35,4,2,CAR 20,10-10,Matt Bryant 39 yard field goal good,0,2.25,3,0.75
+2018-12-23,Browns,Bengals,2,0:14,4,5,CIN 19,16-0,Greg Joseph 37 yard field goal good,0,2.24,3,0.76
+2018-12-23,Jaguars,Dolphins,2,0:04,1,10,MIA 38,7-7,Kai Forbath 56 yard field goal no good,0,3.05,1.93,-1.12
+2018-12-23,Giants,Colts,2,1:15,4,2,CLT 22,7-17,Aldrick Rosas 40 yard field goal good,0,2.12,3,0.88
+2018-12-23,Cowboys,Buccaneers,2,1:48,4,5,TAM 41,17-6,Brett Maher 59 yard field goal good,0,0.53,3,2.47
+2018-12-23,Cardinals,Rams,2,0:17,4,5,RAM 36,9-21,Zane Gonzalez 54 yard field goal no good,0,0.88,-1.86,-2.74
+2018-12-23,49ers,Bears,2,0:05,1,5,CHI 5,9-7,Robbie Gould 23 yard field goal good,0,6.06,-3,-9.06
+2018-12-23,Rams,Cardinals,2,0:04,1,10,CRD 39,9-21,Greg Zuerlein 57 yard field goal no good,0,2.98,1.99,-0.99
+2018-12-23,Bills,Patriots,3,13:33,4,3,NWE 17,14-3,Stephen Hauschka 35 yard field goal good,0,2.41,3,0.59
+2018-12-23,Packers,Jets,2,0:06,3,10,NYJ 24,21-17,Mason Crosby 42 yard field goal good,0,2.74,3,0.26
+2018-12-23,Saints,Steelers,2,0:07,1,10,PIT 25,17-14,Wil Lutz 43 yard field goal good. Penalty on Joe Haden: Defensive Offside (Declined),0,3.91,3,-0.91
+2018-12-23,Bills,Patriots,3,10:11,4,10,NWE 23,14-6,Stephen Hauschka 41 yard field goal good,0,1.93,3,1.07
+2018-12-23,Buccaneers,Cowboys,3,10:45,4,18,DAL 34,17-13,Cairo Santos 52 yard field goal no good,0,1.06,-1.73,-2.79
+2018-12-23,Seahawks,Chiefs,3,9:30,4,6,KAN 10,17-10,Sebastian Janikowski 28 yard field goal good,0,2.79,3,0.21
+2018-12-23,Rams,Cardinals,3,5:41,4,3,CRD 3,9-24,Greg Zuerlein 21 yard field goal good,0,3.04,3,-0.04
+2018-12-23,Packers,Jets,3,8:20,4,2,NYJ 11,21-20,Mason Crosby 29 yard field goal good,0,2.82,3,0.18
+2018-12-23,Bengals,Browns,4,15:00,4,22,CLE 33,23-3,Randy Bullock 51 yard field goal good,0,1.15,3,1.85
+2018-12-23,Vikings,Lions,3,8:57,4,3,DET 6,9-17,Dan Bailey 24 yard field goal good,0,3.01,3,-0.01
+2018-12-23,Eagles,Texans,3,5:35,4,18,HTX 29,16-16,Jake Elliott 47 yard field goal good,0,1.5,3,1.5
+2018-12-23,Cowboys,Buccaneers,3,3:44,4,2,TAM 2,20-13,Brett Maher 20 yard field goal good,0,3.25,3,-0.25
+2018-12-23,Browns,Bengals,4,7:29,4,5,CIN 13,26-3,Greg Joseph 31 yard field goal good,0,2.62,3,0.38
+2018-12-23,Jaguars,Dolphins,4,10:59,4,6,MIA 8,7-10,Kai Forbath 26 yard field goal good,0,2.96,3,0.04
+2018-12-23,Giants,Colts,4,9:24,4,4,CLT 9,21-27,Aldrick Rosas 27 yard field goal good,0,2.9,3,0.1
+2018-12-23,Patriots,Bills,4,7:47,4,5,BUF 5,24-6,Stephen Gostkowski 24 yard field goal good,0,3.01,3,-0.01
+2018-12-23,Packers,Jets,4,11:49,4,10,NYJ 20,35-23,Mason Crosby 38 yard field goal good,0,2.12,3,0.88
+2018-12-23,Chiefs,Seahawks,4,10:32,4,10,SEA 10,24-20,Harrison Butker 29 yard field goal good,0,2.76,3,0.24
+2018-12-23,Saints,Steelers,4,6:17,4,11,PIT 32,24-28,Wil Lutz 50 yard field goal no good blocked by L.J. Fort recovered by L.J. Fort,0,1.24,-1.4,-2.64
+2018-12-23,Vikings,Lions,4,4:19,4,11,DET 11,9-27,Dan Bailey 29 yard field goal good,0,2.7,3,0.3
+2018-12-23,Chiefs,Seahawks,4,1:23,4,6,SEA 15,38-31,Harrison Butker 32 yard field goal good,0,2.47,3,0.53
+2018-12-23,Eagles,Texans,4,0:03,3,8,HTX 17,32-30,Jake Elliott 35 yard field goal good,0,3.26,3,-0.26
+2018-12-23,Jets,Packers,4,0:21,4,10,GNB 15,38-38,Jason Myers 33 yard field goal good,0,2.44,3,0.56
+2018-12-22,Ravens,Chargers,1,12:47,4,6,SDG 6,0-3,Justin Tucker 24 yard field goal good,0,2.99,3,0.01
+2018-12-22,Redskins,Titans,1,12:14,4,4,OTI 32,0-3,Dustin Hopkins 50 yard field goal good,0,1.27,3,1.73
+2018-12-22,Ravens,Chargers,1,7:04,4,18,SDG 35,0-3,Justin Tucker 53 yard field goal no good,0,0.97,-1.8,-2.77
+2018-12-22,Ravens,Chargers,2,2:54,4,7,SDG 17,0-6,Justin Tucker 35 yard field goal good,0,2.31,3,0.69
+2018-12-22,Titans,Redskins,2,0:01,4,20,WAS 24,9-10,Ryan Succop 42 yard field goal good,0,1.87,-3,-4.87
+2018-12-22,Chargers,Ravens,2,0:45,4,10,RAV 20,3-6,Michael Badgley 38 yard field goal good,0,2.12,3,0.88
+2018-12-22,Ravens,Chargers,2,0:03,4,7,SDG 47,3-6,Justin Tucker 65 yard field goal no good returned by Derwin James for 31 yards,0,0.13,2.52,2.39
+2018-12-22,Redskins,Titans,3,5:01,4,7,OTI 22,9-13,Dustin Hopkins 40 yard field goal good,0,1.99,3,1.01
+2018-12-22,Titans,Redskins,4,15:00,4,2,WAS 15,12-13,Ryan Succop 33 yard field goal good,0,2.57,3,0.43
+2018-12-22,Ravens,Chargers,3,5:41,4,8,SDG 38,10-16,Justin Tucker 56 yard field goal good,0,0.72,3,2.28
+2018-12-22,Redskins,Titans,4,8:14,4,19,OTI 28,12-16,Dustin Hopkins 46 yard field goal good,0,1.59,3,1.41
+2018-12-17,Saints,Panthers,1,2:20,4,9,CAR 28,7-3,Wil Lutz 46 yard field goal good,0,1.59,3,1.41
+2018-12-17,Saints,Panthers,2,10:00,4,3,CAR 6,7-6,Wil Lutz 24 yard field goal good,0,3.01,3,-0.01
+2018-12-16,Cowboys,Colts,1,10:02,4,4,CLT 30,0-0,Brett Maher 48 yard field goal no good blocked by Denico Autry recovered by Darius Leonard (tackle by Dalton Schultz),0,1.46,-2.65,-4.11
+2018-12-16,Titans,Giants,1,11:30,4,10,NYG 30,0-0,Ryan Succop 48 yard field goal no good,0,1.41,-1.47,-2.88
+2018-12-16,Eagles,Rams,1,8:41,4,3,RAM 33,0-3,Jake Elliott 51 yard field goal good,0,1.19,3,1.81
+2018-12-16,Redskins,Jaguars,1,1:55,4,15,JAX 28,0-3,Dustin Hopkins 46 yard field goal good,0,1.59,3,1.41
+2018-12-16,Falcons,Cardinals,1,0:41,4,3,CRD 3,10-7,Matt Bryant 22 yard field goal good,0,3.04,3,-0.04
+2018-12-16,Eagles,Rams,2,12:05,4,5,RAM 16,7-6,Jake Elliott 34 yard field goal good,0,2.43,3,0.57
+2018-12-16,Packers,Bears,2,7:31,4,9,CHI 23,7-3,Mason Crosby 41 yard field goal good,0,1.93,3,1.07
+2018-12-16,Rams,Eagles,2,4:41,4,19,PHI 23,10-6,Greg Zuerlein 41 yard field goal good,0,1.93,3,1.07
+2018-12-16,Jaguars,Redskins,2,3:26,4,8,WAS 15,3-3,Kai Forbath 33 yard field goal good,0,2.44,3,0.56
+2018-12-16,Bengals,Raiders,2,6:46,4,4,RAI 16,17-0,Randy Bullock 34 yard field goal good,0,2.45,3,0.55
+2018-12-16,Falcons,Cardinals,2,5:21,4,7,CRD 14,20-7,Matt Bryant 33 yard field goal good,0,2.51,3,0.49
+2018-12-16,Buccaneers,Ravens,2,1:50,4,2,RAV 3,7-9,Cairo Santos 21 yard field goal good,0,3.05,3,-0.05
+2018-12-16,49ers,Seahawks,2,1:10,4,4,SEA 9,17-13,Robbie Gould 28 yard field goal good,0,2.9,3,0.1
+2018-12-16,Dolphins,Vikings,2,0:18,4,7,MIN 7,21-10,Jason Sanders 25 yard field goal good,0,2.97,3,0.03
+2018-12-16,Bengals,Raiders,2,1:44,4,12,RAI 20,20-7,Randy Bullock 38 yard field goal good,0,2.12,3,0.88
+2018-12-16,Ravens,Buccaneers,2,0:13,4,5,TAM 6,10-9,Justin Tucker 24 yard field goal good,0,2.99,3,0.01
+2018-12-16,Rams,Eagles,2,0:04,4,10,PHI 18,13-13,Greg Zuerlein 36 yard field goal good,0,2.25,3,0.75
+2018-12-16,Colts,Cowboys,2,0:02,3,12,DAL 25,10-0,Adam Vinatieri 43 yard field goal good,0,2.54,-3,-5.54
+2018-12-16,Steelers,Patriots,3,8:36,4,14,NWE 14,14-7,Chris Boswell 32 yard field goal no good,0,2.51,-0.41,-2.92
+2018-12-16,Packers,Bears,3,9:30,4,7,CHI 25,14-6,Mason Crosby 43 yard field goal good,0,1.8,3,1.2
+2018-12-16,Vikings,Dolphins,3,8:44,4,6,MIA 18,24-17,Dan Bailey 36 yard field goal good,0,2.27,3,0.73
+2018-12-16,Redskins,Jaguars,3,7:37,4,10,JAX 15,10-6,Dustin Hopkins 33 yard field goal good,0,2.44,3,0.56
+2018-12-16,Buccaneers,Ravens,3,5:46,4,5,RAV 9,17-12,Cairo Santos 28 yard field goal good,0,2.88,3,0.12
+2018-12-16,Patriots,Steelers,3,0:20,4,6,PIT 15,14-10,Stephen Gostkowski 33 yard field goal good,0,2.47,3,0.53
+2018-12-16,Eagles,Rams,3,3:17,4,4,RAM 22,13-23,Jake Elliott 40 yard field goal good,0,2.07,3,0.93
+2018-12-16,49ers,Seahawks,3,2:59,4,10,SEA 15,20-13,Robbie Gould 33 yard field goal good,0,2.44,3,0.56
+2018-12-16,Colts,Cowboys,3,1:41,4,1,DAL 26,20-0,Adam Vinatieri 44 yard field goal good,0,1.89,3,1.11
+2018-12-16,Raiders,Bengals,3,6:33,4,7,CIN 32,20-10,Daniel Carlson 50 yard field goal good,0,1.24,3,1.76
+2018-12-16,Jaguars,Redskins,4,11:21,4,6,WAS 23,13-6,Kai Forbath 41 yard field goal good,0,1.95,3,1.05
+2018-12-16,Vikings,Dolphins,4,13:05,4,12,MIA 16,27-17,Dan Bailey 34 yard field goal good,0,2.38,3,0.62
+2018-12-16,Ravens,Buccaneers,4,13:37,4,4,TAM 17,20-12,Justin Tucker 35 yard field goal good,0,2.39,3,0.61
+2018-12-16,Raiders,Bengals,3,2:42,4,8,CIN 8,20-13,Daniel Carlson 27 yard field goal good,0,2.95,3,0.05
+2018-12-16,49ers,Seahawks,4,9:56,4,6,SEA 27,23-20,Robbie Gould 45 yard field goal good,0,1.7,3,1.3
+2018-12-16,Colts,Cowboys,4,7:01,4,2,DAL 5,23-0,Adam Vinatieri 23 yard field goal good,0,3.03,3,-0.03
+2018-12-16,Rams,Eagles,4,9:28,4,13,PHI 19,16-30,Greg Zuerlein 37 yard field goal good,0,2.18,3,0.82
+2018-12-16,Steelers,Patriots,4,2:34,4,6,NWE 30,17-10,Chris Boswell 48 yard field goal good,0,1.43,3,1.57
+2018-12-16,Bengals,Raiders,4,10:49,4,4,RAI 4,23-13,Randy Bullock 23 yard field goal good,0,3.03,3,-0.03
+2018-12-16,Lions,Bills,4,5:55,4,5,BUF 30,14-13,Matt Prater 48 yard field goal no good,0,1.45,-1.47,-2.92
+2018-12-16,Bears,Packers,4,6:46,4,1,GNB 6,24-14,Cody Parkey 24 yard field goal good,0,3.02,3,-0.02
+2018-12-16,Seahawks,49ers,4,5:27,4,9,SFO 30,23-23,Sebastian Janikowski 48 yard field goal good,0,1.41,3,1.59
+2018-12-16,Titans,Giants,4,5:09,4,2,NYG 4,0-17,Ryan Succop 22 yard field goal good,0,3.04,3,-0.04
+2018-12-16,Redskins,Jaguars,4,0:04,2,12,JAX 19,13-16,Dustin Hopkins 36 yard field goal good,0,3.6,3,-0.6
+2018-12-16,Raiders,Bengals,4,5:09,4,5,CIN 21,23-16,Daniel Carlson 40 yard field goal good,0,2.11,3,0.89
+2018-12-16,Packers,Bears,4,0:15,3,27,CHI 27,24-17,Mason Crosby 45 yard field goal good,0,1.42,3,1.58
+2018-12-16,Eagles,Rams,4,1:13,4,9,RAM 35,23-30,Jake Elliott 53 yard field goal no good,0,0.97,-1.8,-2.77
+2018-12-16,49ers,Seahawks,5,3:11,3,3,SEA 18,26-23,Robbie Gould 36 yard field goal good,0,3.66,3,-0.66
+2018-12-15,Texans,Jets,1,9:27,4,20,NYJ 22,0-3,Ka'imi Fairbairn 41 yard field goal good,0,1.99,3,1.01
+2018-12-15,Jets,Texans,1,2:04,4,7,HTX 8,3-3,Jason Myers 26 yard field goal good,0,2.96,3,0.04
+2018-12-15,Texans,Jets,2,12:54,4,7,NYJ 14,3-6,Ka'imi Fairbairn 32 yard field goal good,0,2.51,3,0.49
+2018-12-15,Broncos,Browns,2,8:21,4,9,CLE 26,10-7,Brandon McManus 44 yard field goal good,0,1.74,3,1.26
+2018-12-15,Browns,Broncos,2,4:57,4,10,DEN 22,10-10,Greg Joseph 40 yard field goal good,0,1.99,3,1.01
+2018-12-15,Texans,Jets,2,4:39,4,3,NYJ 35,3-16,Ka'imi Fairbairn 53 yard field goal good,0,0.99,3,2.01
+2018-12-15,Broncos,Browns,3,1:45,4,8,CLE 24,13-10,Brandon McManus 42 yard field goal good,0,1.87,3,1.13
+2018-12-15,Texans,Jets,4,12:37,4,17,NYJ 31,15-19,Ka'imi Fairbairn 49 yard field goal good,0,1.32,3,1.68
+2018-12-15,Broncos,Browns,4,4:39,4,6,CLE 11,16-17,Brandon McManus 29 yard field goal good,0,2.72,3,0.28
+2018-12-15,Texans,Jets,4,0:57,4,11,NYJ 22,22-29,Ka'imi Fairbairn 40 yard field goal good,0,1.99,3,1.01
+2018-12-10,Seahawks,Vikings,2,14:15,4,14,MIN 19,3-0,Sebastian Janikowski 37 yard field goal good,0,2.18,3,0.82
+2018-12-10,Seahawks,Vikings,4,13:26,4,17,MIN 17,6-0,Sebastian Janikowski 35 yard field goal good,0,2.31,3,0.69
+2018-12-10,Vikings,Seahawks,4,5:46,4,9,SEA 29,6-0,Dan Bailey 47 yard field goal no good,0,1.5,-1.4,-2.9
+2018-12-09,49ers,Broncos,1,10:28,4,10,DEN 22,3-0,Robbie Gould 40 yard field goal good,0,1.99,3,1.01
+2018-12-09,Rams,Bears,1,9:16,4,4,CHI 9,0-3,Greg Zuerlein 27 yard field goal good,0,2.9,3,0.1
+2018-12-09,Bengals,Chargers,1,6:28,4,3,SDG 29,7-3,Randy Bullock 47 yard field goal good,0,1.58,3,1.42
+2018-12-09,Bears,Rams,1,2:53,4,15,RAM 21,3-3,Cody Parkey 39 yard field goal good,0,2.06,3,0.94
+2018-12-09,Cowboys,Eagles,1,2:28,4,10,PHI 10,3-0,Brett Maher 28 yard field goal good,0,2.76,3,0.24
+2018-12-09,Jets,Bills,1,4:39,4,7,BUF 29,7-3,Jason Myers 47 yard field goal good,0,1.5,3,1.5
+2018-12-09,Falcons,Packers,1,0:42,4,24,GNB 35,7-7,Matt Bryant 53 yard field goal no good,0,0.97,-1.8,-2.77
+2018-12-09,49ers,Broncos,2,13:04,4,10,DEN 12,6-0,Robbie Gould 29 yard field goal good,0,2.63,3,0.37
+2018-12-09,Buccaneers,Saints,2,11:20,4,16,NOR 28,7-0,Cairo Santos 46 yard field goal no good,0,1.59,-1.33,-2.92
+2018-12-09,Chiefs,Ravens,2,11:42,4,8,RAV 33,7-7,Harrison Butker 51 yard field goal no good,0,1.15,-1.66,-2.81
+2018-12-09,Raiders,Steelers,2,8:08,4,3,PIT 26,10-7,Daniel Carlson 44 yard field goal good,0,1.84,3,1.16
+2018-12-09,Lions,Cardinals,2,9:40,4,10,CRD 29,0-3,Matt Prater 47 yard field goal good,0,1.5,3,1.5
+2018-12-09,Saints,Buccaneers,2,7:09,4,3,TAM 12,7-3,Wil Lutz 30 yard field goal good,0,2.73,3,0.27
+2018-12-09,Giants,Redskins,2,10:43,4,17,WAS 17,0-10,Aldrick Rosas 35 yard field goal good,0,2.31,3,0.69
+2018-12-09,Jets,Bills,2,11:13,4,3,BUF 3,14-6,Jason Myers 21 yard field goal good,0,3.04,3,-0.04
+2018-12-09,Ravens,Chiefs,2,7:05,4,9,KAN 10,7-10,Justin Tucker 28 yard field goal good,0,2.76,3,0.24
+2018-12-09,Bears,Rams,2,9:28,4,13,RAM 13,6-3,Cody Parkey 31 yard field goal good,0,2.57,3,0.43
+2018-12-09,Packers,Falcons,2,7:45,4,16,ATL 32,10-7,Mason Crosby 50 yard field goal good,0,1.24,3,1.76
+2018-12-09,Steelers,Raiders,2,4:33,4,15,RAI 21,10-7,Chris Boswell 39 yard field goal no good,0,2.06,-0.87,-2.93
+2018-12-09,Bengals,Chargers,2,5:05,4,5,SDG 5,14-6,Randy Bullock 23 yard field goal good,0,3.01,3,-0.01
+2018-12-09,Panthers,Browns,2,4:07,4,4,CLE 12,14-17,Chandler Catanzaro 30 yard field goal good,0,2.71,3,0.29
+2018-12-09,Cowboys,Eagles,2,1:53,4,22,PHI 27,3-0,Brett Maher 45 yard field goal no good,0,1.67,-1.27,-2.94
+2018-12-09,Bills,Jets,2,7:18,4,3,NYJ 13,17-6,Stephen Hauschka 31 yard field goal good,0,2.67,3,0.33
+2018-12-09,Cardinals,Lions,2,5:22,4,16,DET 36,0-3,Zane Gonzalez 54 yard field goal no good,0,0.88,-1.86,-2.74
+2018-12-09,Browns,Panthers,2,1:03,4,10,CAR 31,17-17,Greg Joseph 49 yard field goal good,0,1.32,3,1.68
+2018-12-09,Rams,Bears,2,4:17,4,10,CHI 32,6-6,Greg Zuerlein 50 yard field goal good,0,1.24,3,1.76
+2018-12-09,Cowboys,Eagles,2,0:01,4,11,PHI 44,6-0,Brett Maher 62 yard field goal good,0,0.33,3,2.67
+2018-12-09,Chiefs,Ravens,2,0:04,4,4,RAV 6,17-10,Harrison Butker 24 yard field goal good,0,3,3,0
+2018-12-09,Packers,Falcons,2,0:04,4,4,ATL 30,20-7,Mason Crosby 48 yard field goal good,0,1.46,-3,-4.46
+2018-12-09,Chargers,Bengals,2,0:00,1,5,CIN 41,17-12,Michael Badgley 59 yard field goal good,0,3.25,3,-0.25
+2018-12-09,Buccaneers,Saints,3,12:54,4,5,NOR 22,14-3,Cairo Santos 40 yard field goal no good,0,2.04,-0.94,-2.98
+2018-12-09,Giants,Redskins,2,0:04,3,5,WAS 5,0-34,Aldrick Rosas 23 yard field goal good,0,4.26,-3,-7.26
+2018-12-09,Cowboys,Eagles,3,9:01,4,3,PHI 3,9-0,Brett Maher 21 yard field goal good,0,3.04,3,-0.04
+2018-12-09,Bills,Jets,2,0:04,4,11,NYJ 31,17-13,Stephen Hauschka 49 yard field goal no good blocked by Henry Anderson recovered by Rontez Miles (tackle by Logan Thomas). Rontez Miles fumbles (forced by Logan Thomas) recovered by Terrence Brooks at NYJ-17,0,1.32,1.47,0.15
+2018-12-09,Colts,Texans,2,0:04,2,10,HTX 36,7-17,Adam Vinatieri 54 yard field goal good,0,2.64,3,0.36
+2018-12-09,Chargers,Bengals,3,7:42,4,10,CIN 13,20-12,Michael Badgley 31 yard field goal good,0,2.57,3,0.43
+2018-12-09,Bills,Jets,3,13:26,4,8,NYJ 11,20-13,Stephen Hauschka 29 yard field goal good,0,2.7,3,0.3
+2018-12-09,Panthers,Browns,3,7:15,4,16,CLE 16,17-20,Chandler Catanzaro 34 yard field goal good,0,2.38,3,0.62
+2018-12-09,Patriots,Dolphins,3,6:26,4,8,MIA 24,21-27,Stephen Gostkowski 42 yard field goal no good,0,1.87,-1.07,-2.94
+2018-12-09,Eagles,Cowboys,4,12:15,4,8,DAL 8,9-9,Jake Elliott 26 yard field goal good,0,2.95,3,0.05
+2018-12-09,Bengals,Chargers,4,12:17,4,5,SDG 28,20-15,Randy Bullock 46 yard field goal good,0,1.63,3,1.37
+2018-12-09,Chargers,Bengals,4,7:50,4,3,CIN 14,23-15,Michael Badgley 32 yard field goal good,0,2.61,3,0.39
+2018-12-09,Cardinals,Lions,4,8:18,4,4,DET 4,3-10,Zane Gonzalez 22 yard field goal good,0,3.03,3,-0.03
+2018-12-09,Browns,Panthers,4,8:51,4,8,CAR 23,26-20,Greg Joseph 41 yard field goal good,0,1.93,3,1.07
+2018-12-09,Patriots,Dolphins,4,6:50,4,9,MIA 14,28-30,Stephen Gostkowski 32 yard field goal good,0,2.51,3,0.49
+2018-12-09,Bills,Jets,4,7:54,4,8,NYJ 36,20-20,Stephen Hauschka 54 yard field goal no good,0,0.88,-1.86,-2.74
+2018-12-09,Rams,Bears,4,10:16,4,15,CHI 22,15-6,Greg Zuerlein 40 yard field goal no good,0,1.99,-0.94,-2.93
+2018-12-09,Chargers,Bengals,4,0:54,4,3,CIN 27,26-21,Michael Badgley 45 yard field goal good,0,1.77,3,1.23
+2018-12-09,Bills,Jets,4,2:35,4,5,NYJ 18,23-20,Stephen Hauschka 36 yard field goal good,0,2.3,3,0.7
+2018-12-09,Patriots,Dolphins,4,0:21,4,4,MIA 4,28-33,Stephen Gostkowski 22 yard field goal good,0,3.03,3,-0.03
+2018-12-09,Saints,Buccaneers,4,1:15,4,14,TAM 18,14-28,Wil Lutz 36 yard field goal good,0,2.25,3,0.75
+2018-12-09,Steelers,Raiders,4,0:05,1,10,RAI 22,24-21,Chris Boswell 40 yard field goal no good,0,4.11,0.87,-3.24
+2018-12-09,Chiefs,Ravens,4,0:03,3,12,RAV 25,24-24,Harrison Butker 43 yard field goal no good,0,2.54,0,-2.54
+2018-12-09,Bears,Rams,4,2:50,4,4,RAM 20,15-6,Cody Parkey 38 yard field goal no good,0,2.2,-0.81,-3.01
+2018-12-09,Chiefs,Ravens,5,4:46,4,15,RAV 17,27-24,Harrison Butker 35 yard field goal good,0,2.31,3,0.69
+2018-12-06,Titans,Jaguars,2,0:10,4,7,JAX 15,16-2,Ryan Succop 33 yard field goal good,0,2.44,3,0.56
+2018-12-03,Redskins,Eagles,2,13:49,4,20,PHI 26,7-3,Dustin Hopkins 44 yard field goal good,0,1.74,3,1.26
+2018-12-03,Redskins,Eagles,2,0:19,4,5,PHI 29,14-13,Dustin Hopkins 47 yard field goal good,0,1.54,3,1.46
+2018-12-03,Eagles,Redskins,4,11:45,4,3,WAS 28,25-13,Jake Elliott 46 yard field goal good,0,1.68,3,1.32
+2018-12-03,Eagles,Redskins,4,4:52,4,7,WAS 26,28-13,Jake Elliott 44 yard field goal good,0,1.74,3,1.26
+2018-12-02,Chargers,Steelers,1,11:24,4,1,PIT 34,0-0,Michael Badgley 52 yard field goal no good,0,1.1,-1.73,-2.83
+2018-12-02,Falcons,Ravens,1,9:36,4,9,RAV 26,3-0,Matt Bryant 44 yard field goal good,0,1.74,3,1.26
+2018-12-02,Texans,Browns,1,8:15,4,12,CLE 16,3-0,Ka'imi Fairbairn 35 yard field goal good. Penalty on Derrick Kindred: Running Into the Kicker (Declined),0,2.38,3,0.62
+2018-12-02,Jets,Titans,1,9:40,4,10,OTI 36,0-3,Jason Myers 54 yard field goal good,0,0.88,3,2.12
+2018-12-02,Buccaneers,Panthers,1,6:44,4,7,CAR 17,10-0,Cairo Santos 35 yard field goal good,0,2.31,3,0.69
+2018-12-02,Vikings,Patriots,1,5:31,4,17,NWE 30,7-0,Dan Bailey 48 yard field goal no good,0,1.41,-1.47,-2.88
+2018-12-02,Chiefs,Raiders,1,7:45,4,3,RAI 10,0-10,Harrison Butker 29 yard field goal good,0,2.86,3,0.14
+2018-12-02,Rams,Lions,1,3:20,4,4,DET 6,0-3,Greg Zuerlein 24 yard field goal good,0,3,3,0
+2018-12-02,Lions,Rams,2,12:26,4,5,RAM 10,3-3,Matt Prater 28 yard field goal good,0,2.81,3,0.19
+2018-12-02,Jets,Titans,2,11:45,4,8,OTI 16,0-13,Jason Myers 34 yard field goal good,0,2.38,3,0.62
+2018-12-02,Colts,Jaguars,2,13:29,4,9,JAX 11,0-0,,0,2.7,6.06,3.36
+2018-12-02,Patriots,Vikings,2,5:48,4,1,MIN 1,10-0,Stephen Gostkowski 20 yard field goal good,0,3.55,3,-0.55
+2018-12-02,Broncos,Bengals,2,7:27,4,8,CIN 32,0-0,Brandon McManus 50 yard field goal no good,0,1.24,-1.6,-2.84
+2018-12-02,Chiefs,Raiders,2,7:07,4,9,RAI 32,0-13,Harrison Butker 50 yard field goal good,0,1.24,3,1.76
+2018-12-02,Steelers,Chargers,2,2:45,4,6,SDG 30,16-7,Chris Boswell 48 yard field goal good,0,1.43,3,1.57
+2018-12-02,Jets,Titans,2,2:56,4,17,OTI 25,0-16,Jason Myers 43 yard field goal good,0,1.8,3,1.2
+2018-12-02,Texans,Browns,2,3:24,4,6,CLE 24,20-0,Ka'imi Fairbairn 42 yard field goal good,0,1.89,3,1.11
+2018-12-02,Jaguars,Colts,2,2:13,4,10,CLT 12,3-0,,0,2.63,3,0.37
+2018-12-02,Packers,Cardinals,2,0:18,4,9,CRD 14,10-7,Mason Crosby 32 yard field goal good,0,2.51,3,0.49
+2018-12-02,Rams,Lions,2,0:48,4,10,DET 29,3-13,Greg Zuerlein 47 yard field goal good,0,1.5,3,1.5
+2018-12-02,Panthers,Buccaneers,3,11:02,4,17,TAM 19,17-10,Graham Gano 37 yard field goal good,0,2.18,3,0.82
+2018-12-02,49ers,Seahawks,2,0:05,4,7,SEA 27,20-3,Robbie Gould 45 yard field goal good,0,1.67,3,1.33
+2018-12-02,Bengals,Broncos,2,0:16,4,17,DEN 17,3-7,Randy Bullock 35 yard field goal good,0,2.31,3,0.69
+2018-12-02,Giants,Bears,2,0:01,1,10,CHI 39,10-14,Aldrick Rosas 57 yard field goal good,0,2.98,-3,-5.98
+2018-12-02,Ravens,Falcons,2,0:10,1,10,ATL 23,10-10,Justin Tucker 41 yard field goal good,0,4.04,3,-1.04
+2018-12-02,Texans,Browns,2,0:05,4,10,CLE 30,23-0,Ka'imi Fairbairn 48 yard field goal good,0,1.41,3,1.59
+2018-12-02,Jets,Titans,3,10:43,4,14,OTI 21,6-19,Jason Myers 39 yard field goal good,0,2.06,3,0.94
+2018-12-02,Bills,Dolphins,3,9:06,4,6,MIA 14,14-9,Stephen Hauschka 32 yard field goal good,0,2.53,3,0.47
+2018-12-02,Patriots,Vikings,3,6:26,4,15,MIN 30,10-7,Stephen Gostkowski 48 yard field goal no good,0,1.41,-1.47,-2.88
+2018-12-02,Raiders,Chiefs,3,11:10,4,8,KAN 32,10-19,Daniel Carlson 50 yard field goal good,0,1.24,3,1.76
+2018-12-02,Ravens,Falcons,3,10:02,4,3,ATL 3,10-13,Justin Tucker 21 yard field goal good,0,3.04,3,-0.04
+2018-12-02,Cardinals,Packers,3,5:22,4,9,GNB 26,10-10,Zane Gonzalez 44 yard field goal good,0,1.74,3,1.26
+2018-12-02,Lions,Rams,3,8:01,4,11,RAM 11,6-13,Matt Prater 29 yard field goal good,0,2.7,3,0.3
+2018-12-02,Vikings,Patriots,3,2:24,4,9,NWE 21,10-10,Dan Bailey 39 yard field goal good,0,2.06,3,0.94
+2018-12-02,Rams,Lions,3,5:51,4,2,DET 30,6-16,Greg Zuerlein 48 yard field goal good,0,1.5,3,1.5
+2018-12-02,Jets,Titans,3,0:31,4,9,OTI 21,13-22,Jason Myers 39 yard field goal good,0,2.06,3,0.94
+2018-12-02,Texans,Browns,3,5:31,4,3,CLE 35,26-7,Ka'imi Fairbairn 53 yard field goal good,0,0.99,3,2.01
+2018-12-02,Ravens,Falcons,3,0:36,4,9,ATL 27,10-16,Justin Tucker 45 yard field goal good,0,1.67,3,1.33
+2018-12-02,Jaguars,Colts,4,11:45,4,3,CLT 19,6-0,,0,2.28,3,0.72
+2018-12-02,Titans,Jets,4,9:33,4,6,NYJ 6,16-22,Ryan Succop 24 yard field goal good,0,2.99,3,0.01
+2018-12-02,Bears,Giants,4,9:29,4,15,NYG 18,24-17,Cody Parkey 36 yard field goal good,0,2.25,3,0.75
+2018-12-02,Titans,Jets,4,5:44,4,15,NYJ 15,19-22,Ryan Succop 33 yard field goal good,0,2.44,3,0.56
+2018-12-02,Seahawks,49ers,4,7:53,4,22,SFO 22,37-16,Sebastian Janikowski 40 yard field goal good,0,1.99,3,1.01
+2018-12-02,Ravens,Falcons,4,7:29,4,3,ATL 29,10-19,Justin Tucker 47 yard field goal good,0,1.58,3,1.42
+2018-12-02,Texans,Browns,4,5:50,4,9,CLE 20,29-7,Ka'imi Fairbairn 38 yard field goal good,0,2.12,3,0.88
+2018-12-02,Bills,Dolphins,4,3:40,4,23,MIA 37,21-17,Stephen Hauschka 55 yard field goal no good,0,0.79,-1.93,-2.72
+2018-12-02,Cardinals,Packers,4,1:45,4,3,GNB 26,17-20,Zane Gonzalez 44 yard field goal good,0,1.84,3,1.16
