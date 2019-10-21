@@ -1,15 +1,3 @@
-# This is based on 'The Search For The Saddest Punt in the World', which defined a metric that evaluates the 
-# quality of punting decisions in the NFL. The higher the 'Surrender Index', the more overly cautious the 
-# punt, with the extremely high indexes highlighting poor coaching decisions.
-# I attempted to replicate this rating for field goal decisions. I used dataFrames to handle
-# the csv data, and added columns for each of the intermediate multipliers, and then the final 
-# Surrender Index value.
-# SB Nation's Surrender Index from 'The Search for the Saddest Punt in the World' uses the following formula: 
-# (Field Position Multiplier) * (Yards-to-go Multiplier) * (Score Multiplier) * (Time Multiplier)
-# My multipliers are calculated differently and are defined below, and skew the index more towards score differential vs. field position
-# I pulled the field goal data from football reference, and based on the 
-# limitations of their webapp, it includes the 500 most recent field goal attempts as of Oct. 10, 2019 
-# I used matplotlib to plot both the top 100 'worst' field goal decisions, and the average by team.
 
 import pandas as pd 
 import numpy as np
@@ -144,10 +132,10 @@ teamKicks = {} #Store the number of kicks and sum in a dictionary to compute tea
 teamSum = {} 
 teamAvg = {} 
 for team in teams:
-    teamKicks[teams[team]] = 0 
+    teamKicks[teams[team]] = 0 #Initialize to zero 
     teamSum[teams[team]] = 0.0 
 
-for i in range (len(data.iloc[:,0])): 
+for i in range (len(data.iloc[:,0])):  #Calculate totals and sums
     teamKicks[data['Tm'][i]] = teamKicks[data['Tm'][i]] + 1 
     teamSum[data['Tm'][i]] = teamSum[data['Tm'][i]] + data['Index'][i] 
 
@@ -156,15 +144,22 @@ for team in teamKicks:
 
 teamNames = [] 
 teamIndex = [] 
-for team in teams: 
+for team in teams: #Get the averages as a list
     teamNames.append(team)
     teamIndex.append(teamAvg[teams[team]])
 
 sIndex.sort(reverse=True)
 
+#print(data.sort_values('Index', ascending=False))
+
+#The highest value returned was 177.4, a kick by the Titans on December 16, 2018 against the Giants. 
+#Down 17 on the Giants 4 with 4th and 2 and 5 minutes left in the game
+
+#The average kick gives a surrender index of 15.18, with indexes over 100 being what I would consider bad kicks
+
 print (sum(sIndex)/len(sIndex))
 
-#Plot the two graphs
+#Plot the top 100
 plt.subplot()
 x = np.arange(100)
 plt.bar(x, sIndex[0:100], align='center', alpha=0.6)
@@ -172,6 +167,8 @@ plt.xticks(None)
 plt.ylabel('Surrender Index')
 plt.title('Field Goal Surrender Index - Top 100')
 plt.subplot()
+
+#Plot the team averages
 plt.figure(figsize=(12,6))
 y = np.arange(0,320,10) 
 plt.bar(y, teamIndex, align='center', alpha=0.6, width = 5)
