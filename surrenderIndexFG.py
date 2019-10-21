@@ -1,3 +1,16 @@
+# This is based on 'The Search For The Saddest Punt in the World', which defined a metric that evaluates the 
+# quality of punting decisions in the NFL. The higher the 'Surrender Index', the more overly cautious the 
+# punt, with the extremely high indexes highlighting poor coaching decisions.
+# I attempted to replicate this rating for field goal decisions. I used dataFrames to handle
+# the csv data, and added columns for each of the intermediate multipliers, and then the final 
+# Surrender Index value.
+# SB Nation's Surrender Index from 'The Search for the Saddest Punt in the World' uses the following formula: 
+# (Field Position Multiplier) * (Yards-to-go Multiplier) * (Score Multiplier) * (Time Multiplier)
+# My multipliers are calculated differently and are defined below, and skew the index more towards score differential vs. field position
+# I pulled the field goal data from football reference, and based on the 
+# limitations of their webapp, it includes the 500 most recent field goal attempts as of Oct. 10, 2019 
+# I used matplotlib to plot both the top 100 'worst' field goal decisions, and the average by team.
+
 import pandas as pd 
 import numpy as np
 import os 
@@ -5,9 +18,9 @@ import math
 import matplotlib
 from matplotlib import pyplot as plt
 
-data = pd.read_csv("fieldGoalData.csv")
+data = pd.read_csv("fieldGoalData.csv") #Put the data from football-reference into a dataframe.
 
-teams =  { 
+teams =  {  #Map the three-letter codes used by football-reference to team names
 "CRD": "Cardinals",
 "ATL": "Falcons",
 "RAV": "Ravens",
@@ -42,36 +55,36 @@ teams =  {
 "WAS": "Redskins"
 }
 
-data = data.drop('Yds',axis=1)
+data = data.drop('Yds',axis=1) #Unnecessary data 
 data = data.drop('EPA',axis=1)
 
-dates = data['Date']
+dates = data['Date']  #Store the info that might be useful for different insights in a separate list 
 data = data.drop('Date',axis=1)
 
 detail = data['Detail']
 data = data.drop('Detail',axis=1)
 
-locations = (data['Location'])
+locations = (data['Location']) #Store the field positions in a separate list
 locationMultiplier = []
 deficitMultiplier = []
 timeMultiplier = []
 distanceMultiplier = []
 scores = (data['Score'])
 
-for i in range (len(locations)):
-    if data['Opp'][i] == teams[(locations[i])[0:3]] : 
+for i in range (len(data.iloc[:,0])):  #For every field goal in the data set
+    if data['Opp'][i] == teams[(locations[i])[0:3]] : #If on the opponents side of the field (almost all values)
         locationMultiplier.append(int(locations[i].split(' ')[1]))
     else: 
-        locationMultiplier.append(100 - int(locations[i].split(' ')[1]))
-    if locationMultiplier[i] >= 40:
+        locationMultiplier.append(100 - int(locations[i].split(' ')[1])) #If not, subtract the yard number from 100
+    if locationMultiplier[i] >= 40: #If farther than the other team's 40, no penalty, as the endzone is far and kicks from this distance are rare 
         locationMultiplier[i] = 1
     else: 
-        locationMultiplier[i] = 1.04 ** (40 - locationMultiplier[i])
+        locationMultiplier[i] = 1.04 ** (40 - locationMultiplier[i]) #Use an exponential scale, the closer to the endzone, the worse the kick
 
     score = scores[i].split('-')
-    scoreDifference = int(score[0]) - int(score[1])
+    scoreDifference = int(score[0]) - int(score[1]) #Calculate the teams deficit, and apply a multiplier 
     scoreMultiplier = 0
-    if scoreDifference > 7: 
+    if scoreDifference > 7:  
         scoreMultiplier = 1.5
     elif scoreDifference >= 5:
         scoreMultiplier = 1 
@@ -81,7 +94,7 @@ for i in range (len(locations)):
         scoreMultiplier = 1.5
     elif scoreDifference >= -3:
         scoreMultiplier = 0.5 
-    elif scoreDifference >= -7: 
+    elif scoreDifference >= -7: #Losing by more than three, but less than 7 is the worst field goal situation -> highest multiplier
         scoreMultiplier = 3 
     elif scoreDifference >= -10:
         scoreMultiplier = 1 
@@ -89,18 +102,18 @@ for i in range (len(locations)):
         scoreMultiplier = 2.5
     deficitMultiplier.append(scoreMultiplier)
 
-    secondsSinceHalf = 900 - ((int((data['Time'][i]).split(':')[0]) * 60) + int(((data['Time'][i]).split(':'))[1]))
-    if data['Quarter'][i] == 1 or data['Quarter'][i] == 2 : 
+    secondsSinceHalf = 900 - ((int((data['Time'][i]).split(':')[0]) * 60) + int(((data['Time'][i]).split(':'))[1])) #parse the time to figure out how long until the end of the game
+    if data['Quarter'][i] == 1 or data['Quarter'][i] == 2 : #No penalty in the first or second quarter
         timeMultiplier.append(1)
     else:
         if data['Quarter'][i] == 4: 
             secondsSinceHalf += 900 
         if secondsSinceHalf < 1680: 
-            timeMultiplier.append((1 + math.log(secondsSinceHalf,5)**2))
-        else: 
-            timeMultiplier.append(2)
+            timeMultiplier.append((1 + math.log(secondsSinceHalf,5)**2)) #Use a logarithmic scale instead of the exponential scale used in the surrender index for punts
+        else:                                                               #Since sometimes late-game field goals make sense 
+            timeMultiplier.append(2) #Lesser penaly for a last-two-minute field goal, since presumably this is a necessary kick vs. an overly cautious decision 
 
-    distance = int(data['Yards'][i])
+    distance = int(data['Yards'][i]) 
     if distance >= 10: 
         distanceMultiplier.append(0.2)
     elif distance >= 7: 
@@ -118,19 +131,17 @@ data['Deficit Multiplier'] = deficitMultiplier
 data['Location Multiplier'] = locationMultiplier
 data['Distance Multiplier'] = distanceMultiplier
 
-sIndex = [] 
-for i in range (len(data.iloc[:,0])): 
-    sIndex.append(data['Time Multiplier'][i] * data['Deficit Multiplier'][i] * data['Location Multiplier'][i] * data['Distance Multiplier'][i])
-data['Index'] = sIndex 
+sIndex = []  #sInde for 'Surrender Index'
+for i in range (len(data.iloc[:,0])): #Aggregate the multipliers for each kick, store in a new list 
+    sIndex.append(data['Time Multiplier'][i] * data['Deficit Multiplier'][i] * data['Location Multiplier'][i] * data['Distance Multiplier'][i]) 
+data['Index'] = sIndex  #Add the list to the dataframe
 
 col = []
 for key in teams:
-    col.append(teams[key])
+    col.append(teams[key]) #Create a list of the team names 
 
-zeros = np.zeros((2,32),dtype=int)
-
-teamKicks = {}
-teamSum = {}
+teamKicks = {} #Store the number of kicks and sum in a dictionary to compute team averages 
+teamSum = {} 
 teamAvg = {} 
 for team in teams:
     teamKicks[teams[team]] = 0 
@@ -151,7 +162,9 @@ for team in teams:
 
 sIndex.sort(reverse=True)
 
+print (sum(sIndex)/len(sIndex))
 
+#Plot the two graphs
 plt.subplot()
 x = np.arange(100)
 plt.bar(x, sIndex[0:100], align='center', alpha=0.6)
